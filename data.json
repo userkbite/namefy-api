@@ -1,0 +1,5 @@
+{
+  "first_names": ["Alice", "João", "Maria", "José", "Luiz", "Mariana", "Pedro", "Fernanda", "Carlos", "Isabel", "Lucas", "Camila", "André", "Larissa", "Rafael", "Juliana", "Antônio", "Patrícia", "Gustavo", "Amanda"],
+  "last_names": ["Santos", "Oliveira", "Souza", "Rodrigues", "Ferreira", "Lima", "Pereira", "Costa", "Carvalho", "Gonçalves", "Ribeiro", "Martins", "Araújo", "Cruz", "Fernandes", "Marques", "Barbosa", "Gomes"],
+  "end_names": ["Silva", "Barros", "Pinheiro", "Almeida", "Azevedo", "Braga", "Campos", "Cardoso", "Correia", "Castro"]
+}
